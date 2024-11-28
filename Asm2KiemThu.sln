@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asm2KiemThu", "Asm2KiemThu\Asm2KiemThu.csproj", "{3E2D64E0-9180-4A2F-8ABF-C81BF623AA87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asm2Test", "Asm2Test\Asm2Test.csproj", "{5E81E103-32CB-4587-A9EB-5E7C3FA0A2D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E2D64E0-9180-4A2F-8ABF-C81BF623AA87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E2D64E0-9180-4A2F-8ABF-C81BF623AA87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E2D64E0-9180-4A2F-8ABF-C81BF623AA87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E2D64E0-9180-4A2F-8ABF-C81BF623AA87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E81E103-32CB-4587-A9EB-5E7C3FA0A2D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E81E103-32CB-4587-A9EB-5E7C3FA0A2D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E81E103-32CB-4587-A9EB-5E7C3FA0A2D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E81E103-32CB-4587-A9EB-5E7C3FA0A2D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00E04828-DDBD-4F43-A7DC-33AD753D63A1}
+	EndGlobalSection
+EndGlobal
